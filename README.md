@@ -15,12 +15,12 @@ home page and do the search from there.
 
 ## How to use
 - Open your terminal and type `youtube the content you want to search for`
-- If you want to read the documentaion of the commad, tpye `man youtube`
+- If you want to read the documentaion of the youtube commad, tpye `man youtube`
 
 ## Uninstall 'youtube'
 1. Open your Terminal
 2. ```cd Downloads``` 
-3. tpye ```ls``` to verify that the directory 'Youtube-Command' is still in the Downloads folder
+3. type ```ls``` to verify that the directory 'Youtube-Command' is still in the Downloads directory
 4. `cd Youtube-Command`
 5. `./uninstall`
 
