@@ -6,13 +6,14 @@ home page and do the search from there.
 
 ## Installation
 
-1. Open your command line (Terminal)
-you can press CTRL + ALT + T 
-2. cd to the directory where you want to clone the command's repository. In my case it will be 
-in the Downloads directory. 
-```cd Downloads```
+1. Open your Terminal and tpye the following commands
+2. ```cd Downloads```
 3. ```git clone https://github.com/waterflow80/Youtube-Command.git```
-4. cd youtube-Command
-5. Type ```ls``` to see the content of the directory
-6. Now type ```./install``` to install the command
+4. ```cd Youtube-Command```
+5. ```./install```
+6. Now the **youtube** command should have been installed
+
 ## How to use
+Open your terminal 
+Type ```youtube the content you want to search for``` and press enter
+
