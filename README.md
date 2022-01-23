@@ -14,6 +14,6 @@ home page and do the search from there.
 6. Now the **youtube** command should have been installed
 
 ## How to use
-Open your terminal 
-Type ```youtube the content you want to search for``` and press enter
+- Open your terminal and type ```youtube the content you want to search for``` 
+
 
