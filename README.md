@@ -14,8 +14,8 @@ home page and do the search from there.
 6. Now the **youtube** command should have been installed
 
 ## How to use
-- Open your terminal and type `youtube the content you want to search for`
-- If you want to read the documentaion of the youtube commad, tpye `man youtube`
+- Open your terminal and type `youtube 'the-content-you-want-to-search-for'`
+- If you want to read the documentaion of the **youtube** commad, tpye `man youtube`
 
 ## Uninstall
 1. Open your Terminal
